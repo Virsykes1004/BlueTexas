@@ -1,0 +1,230 @@
+ .u-section-1 {
+  background-image: url("images/wallpaperbetter.com_1280x1024.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 796px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 228px;
+  height: 228px;
+  margin: 3px 364px 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 228px;
+  height: 228px;
+  margin: -220px 413px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-style: normal;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: 0px;
+  margin: -175px 388px 0 auto;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 465px;
+  height: 177px;
+  background-image: none;
+  margin: 79px auto 0 175px;
+}
+
+.u-section-1 .u-text-2 {
+  letter-spacing: 2px;
+  line-height: 2;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1rem;
+  margin: -168px 172px 0 187px;
+}
+
+.u-section-1 .u-shape-4 {
+  width: 299px;
+  height: 231px;
+  margin: 57px auto 0 383px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  font-size: 1.25rem;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -200px auto 60px 399px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 688px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 4px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -237px;
+    margin-right: 312px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -189px;
+    margin-right: 320px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 110px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 781px;
+    margin-right: 0;
+    margin-left: 214px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-right: 273px;
+    margin-bottom: 52px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 641px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 18px;
+    margin-right: auto;
+    margin-left: 80px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -257px;
+    margin-right: auto;
+    margin-left: 147px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -149px;
+    margin-right: auto;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 45px;
+    margin-bottom: 51px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 725px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 4px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -237px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -157px;
+    margin-left: 111px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 116px;
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+    margin-left: 161px;
+  }
+
+  .u-section-1 .u-shape-4 {
+    margin-left: 241px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 16px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 647px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 16px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -244px;
+    margin-right: -13px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: -156px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    height: 141px;
+    margin-top: 121px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-size: 0.875rem;
+    margin-top: -132px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-shape-4 {
+    height: 191px;
+    margin-top: 61px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -179px;
+    margin-bottom: 27px;
+  }
+}
